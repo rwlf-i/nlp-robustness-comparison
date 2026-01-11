@@ -1,0 +1,13 @@
+datasets
+transformers
+evaluate
+scikit-learn
+pandas
+numpy
+tqdm
+psutil
+textattack
+augly
+nlpaug
+checklist
+pattern
