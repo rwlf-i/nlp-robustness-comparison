@@ -27,13 +27,13 @@ nlp-robustness-comparison/
 │   ├── table_checklist.csv  
 │   ├── table_overall_tools_by_dataset.csv  
 │   └── table_textattack.csv 
-├── src/                     
-│   ├── requirements.txt     
+├── src/                        
 │   ├── nlp_test.py          
 │   ├── diagrams.ipynb       
 │   └── tables.ipynb         
 ├── notebooks/               
-│   └── nlp_test.ipynb       
+│   └── nlp_test.ipynb
+├── requirements.txt        
 ├── README.md                
 ```
 
@@ -49,13 +49,13 @@ nlp-robustness-comparison/
   * **table_overall_tools_by_dataset.csv**: Overall comparison of tools by dataset.
 * **src/**: Contains the main scripts and notebooks.
 
-  * **requirements.txt**: Lists the necessary Python libraries to run the experiment.
   * **nlp_test.py**: The script to execute the robustness evaluation of models.
   * **diagrams.ipynb**: A Jupyter notebook for generating and saving diagrams.
   * **tables.ipynb**: A Jupyter notebook for generating tables of experiment results.
 * **notebooks/**: Contains the original Google Colab notebook for running the experiment.
 
   * **nlp_test.ipynb**: The Google Colab notebook for running the experiment interactively.
+* **requirements.txt**: Lists the necessary Python libraries to run the experiment.
 * **README.md**: This file contains the project description, setup instructions, and details on how to run the experiments.
 
 
